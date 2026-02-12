@@ -1,0 +1,152 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Biblioteca.Api",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/autores": {
+      "post": {
+        "tags": [
+          "Autor"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AutorDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AutorDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AutorDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "Autor"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/libros": {
+      "post": {
+        "tags": [
+          "Libros"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LibroDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LibroDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/LibroDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AutorDto": {
+        "required": [
+          "correoElectronico",
+          "fechaNacimiento",
+          "nombreCompleto"
+        ],
+        "type": "object",
+        "properties": {
+          "nombreCompleto": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "fechaNacimiento": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "ciudadProcedencia": {
+            "type": "string",
+            "nullable": true
+          },
+          "correoElectronico": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "LibroDto": {
+        "required": [
+          "año",
+          "autorId",
+          "genero",
+          "titulo"
+        ],
+        "type": "object",
+        "properties": {
+          "titulo": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "año": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "genero": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "numeroPaginas": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "autorId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Autor"
+    },
+    {
+      "name": "Libros"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Biblioteca.Api.Controllers.AutorController",
+    "Method": "RegistrarAutor",
+    "RelativePath": "api/autores",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Biblioteca.Core.DTOs.AutorDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Biblioteca.Api.Controllers.AutorController",
+    "Method": "ObtenerAutores",
+    "RelativePath": "api/autores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Biblioteca.Api.Controllers.LibrosController",
+    "Method": "RegistrarLibro",
+    "RelativePath": "api/libros",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Biblioteca.Core.DTOs.LibroDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

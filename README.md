@@ -37,3 +37,17 @@ Biblioteca
 │
 └── Database
     └── script.sql
+
+## EJECUCIÓN DEL PROYECTO
+
+Ejecutar el script SQL ubicado en /Database/script.sql
+
+Verificar que la base de datos BibliotecaDb exista
+
+Validar la cadena de conexión en appsettings.json
+
+Ejecutar el proyecto Biblioteca.API
+
+Acceder a Swagger desde el navegador:
+
+https://localhost:{puerto}/swagger

@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2A6ADF-290D-7F9F-B235-F3D853109BC2}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|c:\\users\\yanvier\\source\\repos\\pruebatecnica\\biblioteca.infrastructure\\servicios\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2A6ADF-290D-7F9F-B235-F3D853109BC2}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|solutionrelative:biblioteca.infrastructure\\servicios\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E56556-82B4-2905-59F9-B17FA9FFC881}|Biblioteca.Core\\Biblioteca.Core.csproj|c:\\users\\yanvier\\source\\repos\\pruebatecnica\\biblioteca.core\\dtos\\librodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E56556-82B4-2905-59F9-B17FA9FFC881}|Biblioteca.Core\\Biblioteca.Core.csproj|solutionrelative:biblioteca.core\\dtos\\librodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E56556-82B4-2905-59F9-B17FA9FFC881}|Biblioteca.Core\\Biblioteca.Core.csproj|c:\\users\\yanvier\\source\\repos\\pruebatecnica\\biblioteca.core\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E56556-82B4-2905-59F9-B17FA9FFC881}|Biblioteca.Core\\Biblioteca.Core.csproj|solutionrelative:biblioteca.core\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2A6ADF-290D-7F9F-B235-F3D853109BC2}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|c:\\users\\yanvier\\source\\repos\\pruebatecnica\\biblioteca.infrastructure\\servicios\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2A6ADF-290D-7F9F-B235-F3D853109BC2}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|solutionrelative:biblioteca.infrastructure\\servicios\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B973DC6-0CD7-5DCE-AAE6-1C9B1E4A0EBE}|Biblioteca.Api\\Biblioteca.Api.csproj|c:\\users\\yanvier\\source\\repos\\pruebatecnica\\biblioteca.api\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B973DC6-0CD7-5DCE-AAE6-1C9B1E4A0EBE}|Biblioteca.Api\\Biblioteca.Api.csproj|solutionrelative:biblioteca.api\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E56556-82B4-2905-59F9-B17FA9FFC881}|Biblioteca.Core\\Biblioteca.Core.csproj|c:\\users\\yanvier\\source\\repos\\pruebatecnica\\biblioteca.core\\dtos\\autordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E56556-82B4-2905-59F9-B17FA9FFC881}|Biblioteca.Core\\Biblioteca.Core.csproj|solutionrelative:biblioteca.core\\dtos\\autordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E56556-82B4-2905-59F9-B17FA9FFC881}|Biblioteca.Core\\Biblioteca.Core.csproj|c:\\users\\yanvier\\source\\repos\\pruebatecnica\\biblioteca.core\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E56556-82B4-2905-59F9-B17FA9FFC881}|Biblioteca.Core\\Biblioteca.Core.csproj|solutionrelative:biblioteca.core\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2A6ADF-290D-7F9F-B235-F3D853109BC2}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|c:\\users\\yanvier\\source\\repos\\pruebatecnica\\biblioteca.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2A6ADF-290D-7F9F-B235-F3D853109BC2}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|solutionrelative:biblioteca.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B973DC6-0CD7-5DCE-AAE6-1C9B1E4A0EBE}|Biblioteca.Api\\Biblioteca.Api.csproj|c:\\users\\yanvier\\source\\repos\\pruebatecnica\\biblioteca.api\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B973DC6-0CD7-5DCE-AAE6-1C9B1E4A0EBE}|Biblioteca.Api\\Biblioteca.Api.csproj|solutionrelative:biblioteca.api\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B973DC6-0CD7-5DCE-AAE6-1C9B1E4A0EBE}|Biblioteca.Api\\Biblioteca.Api.csproj|c:\\users\\yanvier\\source\\repos\\pruebatecnica\\biblioteca.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B973DC6-0CD7-5DCE-AAE6-1C9B1E4A0EBE}|Biblioteca.Api\\Biblioteca.Api.csproj|solutionrelative:biblioteca.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E56556-82B4-2905-59F9-B17FA9FFC881}|Biblioteca.Core\\Biblioteca.Core.csproj|c:\\users\\yanvier\\source\\repos\\pruebatecnica\\biblioteca.core\\interfaces\\iautorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E56556-82B4-2905-59F9-B17FA9FFC881}|Biblioteca.Core\\Biblioteca.Core.csproj|solutionrelative:biblioteca.core\\interfaces\\iautorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibroDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Core\\DTOs\\LibroDto.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Core\\DTOs\\LibroDto.cs",
+              "ToolTip": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Core\\DTOs\\LibroDto.cs",
+              "RelativeToolTip": "Biblioteca.Core\\DTOs\\LibroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T02:48:14.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Api\\Program.cs",
+              "RelativeToolTip": "Biblioteca.Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:42:28.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Core\\Entidades\\Libro.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Core\\Entidades\\Libro.cs",
+              "ToolTip": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Core\\Entidades\\Libro.cs",
+              "RelativeToolTip": "Biblioteca.Core\\Entidades\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:53:49.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Biblioteca.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:28:34.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Api\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Api\\Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Api\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "Biblioteca.Api\\Controllers\\AutorController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADgvyAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T02:52:39.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Api\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Api\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Api\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "Biblioteca.Api\\Controllers\\LibrosController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T00:12:25.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Core\\DTOs\\AutorDto.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Core\\DTOs\\AutorDto.cs",
+              "ToolTip": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Core\\DTOs\\AutorDto.cs",
+              "RelativeToolTip": "Biblioteca.Core\\DTOs\\AutorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:38:01.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutorService.cs",
+              "DocumentMoniker": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Infrastructure\\Servicios\\AutorService.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Infrastructure\\Servicios\\AutorService.cs",
+              "ToolTip": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Infrastructure\\Servicios\\AutorService.cs",
+              "RelativeToolTip": "Biblioteca.Infrastructure\\Servicios\\AutorService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:35:32.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibroService.cs",
+              "DocumentMoniker": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Infrastructure\\Servicios\\LibroService.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Infrastructure\\Servicios\\LibroService.cs",
+              "ToolTip": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Infrastructure\\Servicios\\LibroService.cs",
+              "RelativeToolTip": "Biblioteca.Infrastructure\\Servicios\\LibroService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:33:24.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Core\\Entidades\\Autor.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Core\\Entidades\\Autor.cs",
+              "ToolTip": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Core\\Entidades\\Autor.cs",
+              "RelativeToolTip": "Biblioteca.Core\\Entidades\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:43:55.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAutorService.cs",
+              "DocumentMoniker": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Core\\Interfaces\\IAutorService.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Core\\Interfaces\\IAutorService.cs",
+              "ToolTip": "C:\\Users\\Yanvier\\source\\repos\\PruebaTecnica\\Biblioteca.Core\\Interfaces\\IAutorService.cs",
+              "RelativeToolTip": "Biblioteca.Core\\Interfaces\\IAutorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:08:07.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
