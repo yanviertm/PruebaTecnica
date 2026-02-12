@@ -37,17 +37,31 @@ Biblioteca
 │
 └── Database
     └── script.sql
+```
+## 🚀 Ejecución del Proyecto
 
-## EJECUCIÓN DEL PROYECTO
+Sigue estos pasos para poner en marcha la API en tu entorno local:
 
-Ejecutar el script SQL ubicado en /Database/script.sql
+### 1. Base de Datos
+* Ejecutar el script SQL ubicado en `/Database/script.sql`.
+* Asegurarse de que la base de datos `BibliotecaDb` se haya creado correctamente.
 
-Verificar que la base de datos BibliotecaDb exista
+### 2. Configuración
+* Validar la cadena de conexión (**Connection String**) en el archivo `appsettings.json` del proyecto **Biblioteca.API**.
 
-Validar la cadena de conexión en appsettings.json
+### 3. Lanzamiento
+* Establecer **Biblioteca.API** como proyecto de inicio.
+* Ejecutar mediante Visual Studio (F5) o usando el comando `dotnet run` desde la terminal.
 
-Ejecutar el proyecto Biblioteca.API
+### 4. Pruebas
+* Acceder a la interfaz de **Swagger** desde el navegador para interactuar con los endpoints:
+    > `https://localhost:{puerto}/swagger`
 
-Acceder a Swagger desde el navegador:
+---
 
-https://localhost:{puerto}/swagger
+## ✅ Características Implementadas
+
+- [x] **Separación de responsabilidades:** Arquitectura limpia y organizada.
+- [x] **Inyección de Dependencias:** Uso del contenedor nativo de .NET.
+- [x] **Manejo de excepciones personalizado:** Respuestas claras ante errores.
+- [x] **Mapeo de datos (DTOs):** Uso de objetos de transferencia para proteger las entidades.
